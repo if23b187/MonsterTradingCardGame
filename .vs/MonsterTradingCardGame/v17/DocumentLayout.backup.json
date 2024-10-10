@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|c:\\users\\neman\\onedrive\\desktop\\c#mikulovic\\monstertradingcardgame\\http\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|solutionrelative:http\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|c:\\users\\neman\\onedrive\\desktop\\c#mikulovic\\monstertradingcardgame\\http\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|solutionrelative:http\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|c:\\users\\neman\\onedrive\\desktop\\c#mikulovic\\monstertradingcardgame\\http\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|solutionrelative:http\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|c:\\users\\neman\\onedrive\\desktop\\c#mikulovic\\monstertradingcardgame\\http\\streamtracer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|solutionrelative:http\\streamtracer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|c:\\users\\neman\\onedrive\\desktop\\c#mikulovic\\monstertradingcardgame\\http\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|solutionrelative:http\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|c:\\users\\neman\\onedrive\\desktop\\c#mikulovic\\monstertradingcardgame\\http\\userendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|solutionrelative:http\\userendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|c:\\users\\neman\\onedrive\\desktop\\c#mikulovic\\monstertradingcardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|c:\\users\\neman\\onedrive\\desktop\\c#mikulovic\\monstertradingcardgame\\models\\spellcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|solutionrelative:models\\spellcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|c:\\users\\neman\\onedrive\\desktop\\c#mikulovic\\monstertradingcardgame\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|solutionrelative:models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|c:\\users\\neman\\onedrive\\desktop\\c#mikulovic\\monstertradingcardgame\\models\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|solutionrelative:models\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|c:\\users\\neman\\onedrive\\desktop\\c#mikulovic\\monstertradingcardgame\\models\\monstercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|solutionrelative:models\\monstercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|c:\\users\\neman\\onedrive\\desktop\\c#mikulovic\\monstertradingcardgame\\monstertradingcards.exercise.curl.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{119A2AA8-D50B-4390-A54A-952156156BA3}|MonsterTradingCardGame.csproj|solutionrelative:monstertradingcards.exercise.curl.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StreamTracer.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\HTTP\\StreamTracer.cs",
+              "RelativeDocumentMoniker": "HTTP\\StreamTracer.cs",
+              "ToolTip": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\HTTP\\StreamTracer.cs*",
+              "RelativeToolTip": "HTTP\\StreamTracer.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAA6wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:00:57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\HTTP\\User.cs",
+              "RelativeDocumentMoniker": "HTTP\\User.cs",
+              "ToolTip": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\HTTP\\User.cs*",
+              "RelativeToolTip": "HTTP\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:44:52.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpellCard.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\Models\\SpellCard.cs",
+              "RelativeDocumentMoniker": "Models\\SpellCard.cs",
+              "ToolTip": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\Models\\SpellCard.cs",
+              "RelativeToolTip": "Models\\SpellCard.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:07:26.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "Models\\Card.cs",
+              "ToolTip": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\Models\\Card.cs",
+              "RelativeToolTip": "Models\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:05:35.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:25:34.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\HTTP\\UserEndpoint.cs",
+              "RelativeDocumentMoniker": "HTTP\\UserEndpoint.cs",
+              "ToolTip": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\HTTP\\UserEndpoint.cs*",
+              "RelativeToolTip": "HTTP\\UserEndpoint.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:45:14.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\HTTP\\Server.cs",
+              "RelativeDocumentMoniker": "HTTP\\Server.cs",
+              "ToolTip": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\HTTP\\Server.cs*",
+              "RelativeToolTip": "HTTP\\Server.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:46:08.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\HTTP\\Response.cs",
+              "RelativeDocumentMoniker": "HTTP\\Response.cs",
+              "ToolTip": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\HTTP\\Response.cs*",
+              "RelativeToolTip": "HTTP\\Response.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:46:42.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\HTTP\\Request.cs",
+              "RelativeDocumentMoniker": "HTTP\\Request.cs",
+              "ToolTip": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\HTTP\\Request.cs*",
+              "RelativeToolTip": "HTTP\\Request.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:46:58.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\Models\\Deck.cs",
+              "RelativeDocumentMoniker": "Models\\Deck.cs",
+              "ToolTip": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\Models\\Deck.cs",
+              "RelativeToolTip": "Models\\Deck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:08:00.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MonsterCard.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\Models\\MonsterCard.cs",
+              "RelativeDocumentMoniker": "Models\\MonsterCard.cs",
+              "ToolTip": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\Models\\MonsterCard.cs",
+              "RelativeToolTip": "Models\\MonsterCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:06:43.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MonsterTradingCards.exercise.curl.bat",
+              "DocumentMoniker": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\MonsterTradingCards.exercise.curl.bat",
+              "RelativeDocumentMoniker": "MonsterTradingCards.exercise.curl.bat",
+              "ToolTip": "C:\\Users\\neman\\OneDrive\\Desktop\\C#Mikulovic\\MonsterTradingCardGame\\MonsterTradingCards.exercise.curl.bat",
+              "RelativeToolTip": "MonsterTradingCards.exercise.curl.bat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2024-10-10T13:47:48.447Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

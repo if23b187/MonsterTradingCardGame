@@ -1,0 +1,42 @@
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame\bin\Debug\net8.0\MonsterTradingCardGame.exe
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame\bin\Debug\net8.0\MonsterTradingCardGame.deps.json
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame\bin\Debug\net8.0\MonsterTradingCardGame.runtimeconfig.json
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame\bin\Debug\net8.0\MonsterTradingCardGame.dll
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame\bin\Debug\net8.0\MonsterTradingCardGame.pdb
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame\obj\Debug\net8.0\MonsterTradingCardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame\obj\Debug\net8.0\MonsterTradingCardGame.AssemblyInfoInputs.cache
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame\obj\Debug\net8.0\MonsterTradingCardGame.AssemblyInfo.cs
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame\obj\Debug\net8.0\MonsterTradingCardGame.csproj.CoreCompileInputs.cache
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame\obj\Debug\net8.0\MonsterTradingCardGame.dll
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame\obj\Debug\net8.0\refint\MonsterTradingCardGame.dll
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame\obj\Debug\net8.0\MonsterTradingCardGame.pdb
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame\obj\Debug\net8.0\MonsterTradingCardGame.genruntimeconfig.cache
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame\obj\Debug\net8.0\ref\MonsterTradingCardGame.dll
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2\obj\Debug\net8.0\MonsterTradingCardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2\obj\Debug\net8.0\MonsterTradingCardGame.AssemblyInfoInputs.cache
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2\obj\Debug\net8.0\MonsterTradingCardGame.AssemblyInfo.cs
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2\obj\Debug\net8.0\MonsterTradingCardGame.csproj.CoreCompileInputs.cache
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2\obj\Debug\net8.0\MonsterTradingCardGame.dll
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2\obj\Debug\net8.0\refint\MonsterTradingCardGame.dll
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2\obj\Debug\net8.0\MonsterTradingCardGame.pdb
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2\bin\Debug\net8.0\MonsterTradingCardGame.exe
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2\bin\Debug\net8.0\MonsterTradingCardGame.deps.json
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2\bin\Debug\net8.0\MonsterTradingCardGame.runtimeconfig.json
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2\bin\Debug\net8.0\MonsterTradingCardGame.dll
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2\bin\Debug\net8.0\MonsterTradingCardGame.pdb
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2\obj\Debug\net8.0\MonsterTradingCardGame.genruntimeconfig.cache
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2\obj\Debug\net8.0\ref\MonsterTradingCardGame.dll
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2 - Kopie\bin\Debug\net8.0\MonsterTradingCardGame.exe
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2 - Kopie\bin\Debug\net8.0\MonsterTradingCardGame.deps.json
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2 - Kopie\bin\Debug\net8.0\MonsterTradingCardGame.runtimeconfig.json
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2 - Kopie\bin\Debug\net8.0\MonsterTradingCardGame.dll
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2 - Kopie\bin\Debug\net8.0\MonsterTradingCardGame.pdb
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2 - Kopie\obj\Debug\net8.0\MonsterTradingCardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2 - Kopie\obj\Debug\net8.0\MonsterTradingCardGame.AssemblyInfoInputs.cache
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2 - Kopie\obj\Debug\net8.0\MonsterTradingCardGame.AssemblyInfo.cs
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2 - Kopie\obj\Debug\net8.0\MonsterTradingCardGame.csproj.CoreCompileInputs.cache
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2 - Kopie\obj\Debug\net8.0\MonsterTradingCardGame.dll
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2 - Kopie\obj\Debug\net8.0\refint\MonsterTradingCardGame.dll
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2 - Kopie\obj\Debug\net8.0\MonsterTradingCardGame.pdb
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2 - Kopie\obj\Debug\net8.0\MonsterTradingCardGame.genruntimeconfig.cache
+C:\Users\neman\OneDrive\Desktop\C#Mikulovic\MonsterTradingCardGame 2 - Kopie\obj\Debug\net8.0\ref\MonsterTradingCardGame.dll
